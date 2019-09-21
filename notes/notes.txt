@@ -1,0 +1,9 @@
+# Math Foundations Notes 1
+
+Easily differentiable function approximation
+* Fourier Series
+* Taylor Series
+
+Fit polynomial to function
+* Lagrange Polynomial
+
